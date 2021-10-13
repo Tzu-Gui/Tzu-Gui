@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tzu-Gui
 - 👀 I’m interested in ...acquired brain injury
-- 🌱 I’m currently learning ...to live with acquired brain injuryand and pandas
+- 🌱 I’m currently learning ...to live with acquired brain injury and and pandas
 - 💞️ I’m looking to collaborate on ...raspberry pies and assistive tech
 - 📫 How to reach me ...through github or tzu-gui@idugo.nl
 
