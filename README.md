@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tzu-Guiand i've suffered a stroke at 52
+- 👋 Hi, I’m @Tzu-Gui and i've suffered a stroke at 52
 - 👀 I’m interested in ... acquired brain injury /stroke
 - 🌱 I’m currently learning ...to live with acquired brain injury  and pandas
 - 💞️ I’m looking to collaborate on ...raspberry pies and assistive tech
